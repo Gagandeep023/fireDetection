@@ -19,3 +19,4 @@ Frames were captured from video datasets and compiled with other images to creat
 After models were created they were tested on images and videos. First images are checked for flame and then for smoke.
 They were tested on real time footage by simulation of CCTV camera by smartphone camera using DroidCam(https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&hl=en_IN)
 # fireDetection
+# fireDetection
