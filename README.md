@@ -20,3 +20,4 @@ After models were created they were tested on images and videos. First images ar
 They were tested on real time footage by simulation of CCTV camera by smartphone camera using DroidCam(https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&hl=en_IN)
 # fireDetection
 # fireDetection
+# freshhaat-backend
